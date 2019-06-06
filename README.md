@@ -1,5 +1,5 @@
 From Day 03 subject will mention a soft named PAMP (stack to run Apache, Mysql, Php)
-Sadly PAMP has be developed a long time ago and only run on OSX El Capitan or above =(
+Sadly PAMP has be developed a long time ago and only run on OSX El Capitan or below =(
 
 For that reason Max and Bodo, have created a Docker Compose to replace PAMP (Lucky students) !
 

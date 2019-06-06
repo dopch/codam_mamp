@@ -178,6 +178,8 @@ You also have a container PhpMyAdmin at `http://localhost:8080` ou `http://0.0.0
 
 - (Original https://www.youtube.com/watch?v=kxopViU98Xo)
 
+- WTF https://www.youtube.com/watch?v=-50NdPawLVY
+
 # Have Fun!
 
 - Translated from https://github.com/mconnat/101_mamp by Thomas

@@ -189,6 +189,6 @@ phpMyAdmin does use MySQL server credential,
 
 # Have Fun!
 
-- Translated from https://github.com/mconnat/101_mamp by Thomas
+- Contribution and translation by Thomas from https://github.com/mconnat/101_mamp
 
 - Authors Max,Bodo,Thomas 

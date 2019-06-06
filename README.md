@@ -168,6 +168,13 @@ To access the website, use the following url `http://localhost:8008` or `http://
 
 You also have a container PhpMyAdmin at `http://localhost:8080` ou `http://0.0.0.0:8080` or ...
 
+phpMyAdmin does use MySQL server credential, 
+
+- `MYSQL_ROOT_PASSWORD` - This variable is mandatory and specifies the password that will be set for the root superuser account.
+
+- `MYSQL_USER`, `MYSQL_PASSWORD` - These variables are used in conjunction to create a new user and to set that user's password.
+
+
 ### Problemes ?
 
 - Deal with it

@@ -144,7 +144,7 @@ services:
       - PMA_HOST=mysql
 ```
 
-# Utilisation
+# Usage
 
 ### Start of MAMP
 

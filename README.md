@@ -181,11 +181,13 @@ phpMyAdmin does use MySQL server credential,
 
 - Read the Manual
 
-- Music always help https://www.youtube.com/watch?v=G1IbRujko-A 
+- Music always help :
 
-- (Original https://www.youtube.com/watch?v=kxopViU98Xo)
+- Gandalf Epic Sax Guy 10 Hours https://www.youtube.com/watch?v=G1IbRujko-A 
 
-- WTF https://www.youtube.com/watch?v=-50NdPawLVY
+- Crab Rave 10 Hours https://www.youtube.com/watch?v=-50NdPawLVY
+
+- Shreksophone 10 hours https://www.youtube.com/watch?v=pxw-5qfJ1dk
 
 # Have Fun!
 

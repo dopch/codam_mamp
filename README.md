@@ -182,4 +182,4 @@ You also have a container PhpMyAdmin at `http://localhost:8080` ou `http://0.0.0
 
 - Translated from https://github.com/mconnat/101_mamp by Thomas
 
-- Authors Max & Bodo
+- Authors Max,Bodo,Thomas 
